@@ -65,3 +65,19 @@ body {
 .controls .controls__range {
   margin-bottom: 30px;
 }
+
+#date {
+  margin-bottom: 25px;
+}
+
+#yearAndMon,
+#dateAndClock {
+  font-size: 20px;
+  color: white;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+#dateAndClock {
+  margin-top: 10px;
+  margin-left: 10px;
+}
